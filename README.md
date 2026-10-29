@@ -2,6 +2,8 @@
 
 A minimal Python code review app with a standalone browser frontend and separately deployable FastAPI backend. Users paste Python code into the page; the backend sends it to OpenAI for a short text analysis. Submitted code is not compiled or executed.
 
+Deployed Backend: https://code-reviewer-ekwl.vercel.app/docs#/
+
 ## Project layout
 
 - `backend/main.py` — FastAPI API and AI provider request
